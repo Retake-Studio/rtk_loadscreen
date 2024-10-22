@@ -9,7 +9,7 @@ version '1.0.0'
 repository 'https://github.com/SUP2Ak/supv_loadscreen'
 description 'Loading screen create for sublime_core'
 
-loadscreen 'index.html' -- loadscreen
+loadscreen 'web/index.html' -- loadscreen
 loadscreen_manual_shutdown 'yes' -- enable manual shutdown
 loadscreen_cursor 'yes' -- enable cursor
 

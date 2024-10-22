@@ -27,7 +27,8 @@ html {
 }
 
 #logo {
-	width: 50%;
+	width: 20%;
+	height: 20%;
 	position: relative;
 	display: flex;
 	justify-content: center;
